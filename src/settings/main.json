@@ -1,6 +1,10 @@
 {
   "nav": [
     {
+      "name": "Om oss",
+      "permalink": "https://github.com/clean-commit/gatsby-starter-henlo"
+    },
+    {
       "name": "Kontakt oss",
       "permalink": "https://github.com/clean-commit/gatsby-starter-henlo"
     }
